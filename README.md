@@ -17,7 +17,7 @@
     <samp>
       <h2 align="center">You can reach me by:</h2>
       <p align="center">
-        <a href="https://www.linkedin.com/in/muhammad-usman-fazal-677856254/" target="blank">
+        <a href="https://www.linkedin.com/in/muhammad-usman-fazal/" target="blank">
           <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
         </a>
         <a href="mailto:usmanfazaljj@gmail.com" target="blank">
