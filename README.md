@@ -9,7 +9,6 @@
 
 
 
-   _all the modern tools in stack_
 <!-- Feel free to add more technologies here -->
 
 ## Connect with Me
