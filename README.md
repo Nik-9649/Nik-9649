@@ -25,7 +25,7 @@
 Check out my recent coding activity and preferred languages:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ihasautism&hide=yaml,json,text,other,groovy,git%20config,tsconfig,Image%20%28svg%29,markdown,bash&langs_count=6&theme=buefy)](https://wakatime.com/@ihasautism)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=muhammad_usman_fazal&hide=yaml,json,text,other,groovy,git%20config,tsconfig,Image%20%28svg%29,markdown,bash&langs_count=6&theme=buefy)](https://wakatime.com/@ihasautism)
 
 
 [![wakatime](https://wakatime.com/badge/user/9b93cc71-6292-4302-b002-6247f836fc33.svg)](https://wakatime.com/@muhammad_usman_fazal)
