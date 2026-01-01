@@ -2,10 +2,18 @@
 
 ## Tech Stack 
 
-- ![React.js](https://img.shields.io/badge/-React-1A66FF?style=flat-square&logo=logo3&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.Js-33FFA0?style=flat-square&logo=logo2&logoColor=white)
-- ![Nest.js](https://img.shields.io/badge/-Nest.Js_+_Serverless-FF5733?style=flat-square&logo=logo1&logoColor=white)
-- ![AWS Services](https://img.shields.io/badge/-AWS_Services-FFFF00?style=flat-square&logo=logo1&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=social&logo=react&logoColor=black)
+
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- ![Nest.js + Serverless](https://img.shields.io/badge/-Nest.js%20+%20Serverless-FF5733?style=for-the-badge&logo=nestjs&logoColor=white)
+
+- ![AWS Services](https://img.shields.io/badge/-AWS_Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 
